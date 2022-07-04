@@ -1,0 +1,58 @@
+export const services = [
+  {
+    id: 1,
+    categoryId: 1,
+    name: "Web con CMS",
+    description: "Implementación de Sitios Web con CMS Wordpress, Joomla o Drupal",
+    price: 1000.00,
+  },
+  {
+    id: 2,
+    categoryId: 1,
+    name: "Web sin CMS",
+    description: "Web implementada con código puro",
+    price: 1500.00,
+  },
+  {
+    id: 3,
+    categoryId: 2,
+    name: "Carrito de compra con pasarela de pago",
+    description: "Implementación de carrito de compra con pasarela de pago",
+    price: 1800.00,
+  },
+  {
+    id: 4,
+    categoryId: 3,
+    name: "Aplicaciones con .NET",
+    description: "Desarrollo de aplicaciones web con el lenguaje de programación ASP.NET C#",
+    price: 2000.00,
+  },
+  {
+    id: 5,
+    categoryId: 3,
+    name: "Aplicaciones con Java",
+    description: "Desarrollo de aplicaciones web con el lenguaje de programación Java",
+    price: 2500.00,
+  },
+  {
+    id: 6,
+    categoryId: 3,
+    name: "Aplicaciones con NodeJS",
+    description: "Desarrollo de aplicaciones web con el lenguaje de programación NodeJS",
+    price: 1800.00,
+  },
+  {
+    id: 7,
+    categoryId: 4,
+    name: "App con Java y Kotlin",
+    description: "Desarrollo de aplicaciones para Android",
+    price: 2500.00,
+  },
+  {
+    id: 8,
+    categoryId: 4,
+    name: "Apps Híbridas",
+    description: "Desarrollo de aplicaciones para Android o IOS",
+    price: 3000.00,
+  },
+];
